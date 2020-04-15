@@ -2,7 +2,9 @@
 
 #### 介绍
 wpf做的数据可视化大屏展示页面
-
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0415/170937_2153eef9_545745.jpeg "微信截图_20200415170911.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0415/171016_dbf3c290_545745.jpeg "微信截图_20200415170957.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0415/170829_e76500ac_545745.png "微信截图_20200415170751.png")
 #### 软件架构
 软件架构说明
 
